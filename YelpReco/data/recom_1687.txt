@@ -1,0 +1,63 @@
+0 0 0 0 1 35.1706933 -80.8501723 Ole Smokehouse 1
+0 0 0 0 1 35.1706933 -80.8501723 Ole Smokehouse 1
+0 0 0 0 1 35.1706933 -80.8501723 Ole Smokehouse 1
+0 0 0 0 1 35.1706933 -80.8501723 Ole Smokehouse 1
+0 0 0 0 1 35.1706933 -80.8501723 Ole Smokehouse 1
+0 0 0 0 1 35.1706933 -80.8501723 Ole Smokehouse 1
+0 0 0 0 1 35.1706933 -80.8501723 Ole Smokehouse 1
+0 0 0 0 1 35.098696 -80.77854 Taco Bell
+0 0 0 0 1 35.098696 -80.77854 Taco Bell
+0 0 0 0 1 35.098696 -80.77854 Taco Bell
+0 0 0 0 1 35.098696 -80.77854 Taco Bell
+0 0 0 0 1 35.098696 -80.77854 Taco Bell
+0 0 0 0 1 35.098696 -80.77854 Taco Bell
+0 0 0 0 1 35.098696 -80.77854 Taco Bell
+0 0 2 0 1 35.199303 -80.8668859 Monsoon Thai Cuisine
+0 0 2 0 1 35.199303 -80.8668859 Monsoon Thai Cuisine
+0 0 2 0 1 35.199303 -80.8668859 Monsoon Thai Cuisine
+0 0 2 0 1 35.199303 -80.8668859 Monsoon Thai Cuisine
+0 0 2 0 1 35.199303 -80.8668859 Monsoon Thai Cuisine
+0 0 2 0 1 35.199303 -80.8668859 Monsoon Thai Cuisine
+0 0 2 0 1 35.199303 -80.8668859 Monsoon Thai Cuisine
+0 0 0 0 1 35.196533 -80.7903369 Napoli Pizza & Pasta
+0 0 0 0 1 35.196533 -80.7903369 Napoli Pizza & Pasta
+0 0 0 0 1 35.196533 -80.7903369 Napoli Pizza & Pasta
+0 0 0 0 1 35.196533 -80.7903369 Napoli Pizza & Pasta
+0 0 0 0 1 35.196533 -80.7903369 Napoli Pizza & Pasta
+0 0 0 0 1 35.196533 -80.7903369 Napoli Pizza & Pasta
+0 0 0 0 1 35.196533 -80.7903369 Napoli Pizza & Pasta
+0 1 1 0 1 35.225378 -80.841961 Enso Asian Bistro & Sushi Bar
+0 1 1 0 1 35.225378 -80.841961 Enso Asian Bistro & Sushi Bar
+0 1 1 0 1 35.225378 -80.841961 Enso Asian Bistro & Sushi Bar
+0 1 1 0 1 35.225378 -80.841961 Enso Asian Bistro & Sushi Bar
+0 1 1 0 1 35.225378 -80.841961 Enso Asian Bistro & Sushi Bar
+0 1 1 0 1 35.225378 -80.841961 Enso Asian Bistro & Sushi Bar
+0 1 1 0 1 35.225378 -80.841961 Enso Asian Bistro & Sushi Bar
+1 0 2 0 1 35.1813689 -80.883661 Island Paradise Jamaican Restaurant
+1 0 2 0 1 35.1813689 -80.883661 Island Paradise Jamaican Restaurant
+1 0 2 0 1 35.1813689 -80.883661 Island Paradise Jamaican Restaurant
+1 0 2 0 1 35.1813689 -80.883661 Island Paradise Jamaican Restaurant
+1 0 2 0 1 35.1813689 -80.883661 Island Paradise Jamaican Restaurant
+1 0 2 0 1 35.1813689 -80.883661 Island Paradise Jamaican Restaurant
+1 0 2 0 1 35.1813689 -80.883661 Island Paradise Jamaican Restaurant
+0 0 0 0 1 35.2310911 -80.8381685 The TIN Kitchen
+0 0 0 0 1 35.2310911 -80.8381685 The TIN Kitchen
+0 0 0 0 1 35.2310911 -80.8381685 The TIN Kitchen
+0 0 0 0 1 35.2310911 -80.8381685 The TIN Kitchen
+0 0 0 0 1 35.2310911 -80.8381685 The TIN Kitchen
+0 0 0 0 1 35.2310911 -80.8381685 The TIN Kitchen
+0 0 0 0 1 35.2310911 -80.8381685 The TIN Kitchen
+0 0 1 0 1 35.232204 -80.848589 Nana's Uptown Restaurant & Bar
+0 0 1 0 1 35.232204 -80.848589 Nana's Uptown Restaurant & Bar
+0 0 1 0 1 35.232204 -80.848589 Nana's Uptown Restaurant & Bar
+0 0 1 0 1 35.232204 -80.848589 Nana's Uptown Restaurant & Bar
+0 0 1 0 1 35.232204 -80.848589 Nana's Uptown Restaurant & Bar
+0 0 1 0 1 35.232204 -80.848589 Nana's Uptown Restaurant & Bar
+0 0 1 0 1 35.232204 -80.848589 Nana's Uptown Restaurant & Bar
+0 1 1 0 1 35.0246929 -80.8365235 Red Bowl Asian Bistro
+0 1 1 0 1 35.0246929 -80.8365235 Red Bowl Asian Bistro
+0 1 1 0 1 35.0246929 -80.8365235 Red Bowl Asian Bistro
+0 1 1 0 1 35.0246929 -80.8365235 Red Bowl Asian Bistro
+0 1 1 0 1 35.0246929 -80.8365235 Red Bowl Asian Bistro
+0 1 1 0 1 35.0246929 -80.8365235 Red Bowl Asian Bistro
+0 1 1 0 1 35.0246929 -80.8365235 Red Bowl Asian Bistro

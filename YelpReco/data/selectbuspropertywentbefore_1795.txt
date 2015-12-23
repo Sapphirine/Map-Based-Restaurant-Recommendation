@@ -1,0 +1,247 @@
+businessId: 1928 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 2.5
+businessId: 1898 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 2.5
+businessId: 1755 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 4.5
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1908 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3
+businessId: 1804 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: FALSE stars: 4
+businessId: 1872 delivery:  outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 2025 delivery: TRUE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1870 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1877 delivery: FALSE outdoor sitting:  alcohol:  parking lot:  take out:  stars: 4
+businessId: 1895 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4.5
+businessId: 1890 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 2.5
+businessId: 1870 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1895 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1906 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 2039 delivery:  outdoor sitting:  alcohol: none parking lot:  take out: TRUE stars: 2.5
+businessId: 1950 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1942 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1879 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 2.5
+businessId: 1931 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1735 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1877 delivery:  outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1886 delivery:  outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1844 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1906 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 1833 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1673 delivery:  outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: FALSE stars: 3.5
+businessId: 1848 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1906 delivery:  outdoor sitting:  alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1938 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1836 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 2.5
+businessId: 1877 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 2.5
+businessId: 1844 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1923 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1844 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1931 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 2021 delivery:  outdoor sitting: TRUE alcohol:  parking lot:  take out: TRUE stars: 3
+businessId: 1931 delivery: FALSE outdoor sitting:  alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1963 delivery:  outdoor sitting:  alcohol:  parking lot:  take out: TRUE stars: 2
+businessId: 1950 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1870 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1908 delivery:  outdoor sitting:  alcohol:  parking lot:  take out: TRUE stars: 3
+businessId: 1848 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 2047 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1895 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1870 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 2044 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1928 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 1.5
+businessId: 2021 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1906 delivery:  outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1989 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 2.5
+businessId: 1925 delivery:  outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: FALSE stars: 4
+businessId: 2039 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 2.5
+businessId: 1931 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1783 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1931 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 5
+businessId: 1908 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1840 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 2
+businessId: 1950 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1870 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 2044 delivery:  outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1870 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1963 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 1.5
+businessId: 1886 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1928 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 4
+businessId: 1923 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1877 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1804 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1942 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 2.5
+businessId: 1925 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1822 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1925 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1877 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4.5
+businessId: 2044 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1950 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3
+businessId: 1783 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1925 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1770 delivery:  outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1836 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 2.5
+businessId: 2039 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1928 delivery:  outdoor sitting:  alcohol: full_bar parking lot:  take out: FALSE stars: 3.5
+businessId: 1963 delivery:  outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 3
+businessId: 1923 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1923 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1833 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3
+businessId: 1673 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: FALSE stars: 4
+businessId: 2039 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1877 delivery:  outdoor sitting: TRUE alcohol: full_bar parking lot:  take out:  stars: 2.5
+businessId: 1908 delivery:  outdoor sitting: TRUE alcohol: full_bar parking lot:  take out:  stars: 3.5
+businessId: 1898 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1908 delivery:  outdoor sitting: TRUE alcohol: full_bar parking lot:  take out:  stars: 3.5
+businessId: 1886 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1908 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1822 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 2007 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1950 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 2025 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1908 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1895 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 1938 delivery:  outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out:  stars: 3
+businessId: 1890 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 1735 delivery:  outdoor sitting: FALSE alcohol:  parking lot:  take out: FALSE stars: 1.5
+businessId: 2023 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1870 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 1942 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: FALSE stars: 3.5
+businessId: 1928 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1906 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1908 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1879 delivery:  outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 2.5
+businessId: 1947 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 2007 delivery:  outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 2.5
+businessId: 1895 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1877 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 2.5
+businessId: 1950 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1886 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1938 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 2023 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1898 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1908 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1890 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4.5
+businessId: 1923 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1886 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1833 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1786 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 1844 delivery:  outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4.5
+businessId: 1925 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1906 delivery:  outdoor sitting: TRUE alcohol: none parking lot:  take out: FALSE stars: 3.5
+businessId: 1989 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4.5
+businessId: 1833 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1906 delivery: FALSE outdoor sitting: TRUE alcohol:  parking lot:  take out: TRUE stars: 4
+businessId: 1886 delivery:  outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1786 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 2.5
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 3.5
+businessId: 1844 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3
+businessId: 1840 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 4.5
+businessId: 1870 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1923 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1947 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1925 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 1836 delivery: TRUE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1898 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1886 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1783 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 1895 delivery:  outdoor sitting:  alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1906 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 2
+businessId: 1663 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1844 delivery:  outdoor sitting:  alcohol:  parking lot:  take out: TRUE stars: 2.5
+businessId: 1833 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 3.5
+businessId: 1783 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1898 delivery: FALSE outdoor sitting:  alcohol: none parking lot:  take out: TRUE stars: 2
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 3
+businessId: 1822 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1877 delivery:  outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1938 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1848 delivery:  outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1942 delivery:  outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 3.5
+businessId: 1925 delivery:  outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 2.5
+businessId: 2023 delivery: FALSE outdoor sitting: TRUE alcohol:  parking lot:  take out: TRUE stars: 4
+businessId: 1898 delivery:  outdoor sitting:  alcohol:  parking lot:  take out: TRUE stars: 2.5
+businessId: 1833 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1872 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1989 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1833 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1895 delivery:  outdoor sitting: FALSE alcohol:  parking lot:  take out:  stars: 3.5
+businessId: 1942 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1895 delivery:  outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 2025 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1886 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1938 delivery:  outdoor sitting: TRUE alcohol: full_bar parking lot:  take out:  stars: 3.5
+businessId: 1886 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1872 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 2.5
+businessId: 1908 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1870 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1844 delivery:  outdoor sitting: TRUE alcohol:  parking lot:  take out:  stars: 3.5
+businessId: 2021 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 2.5
+businessId: 1879 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1938 delivery: FALSE outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 4.5
+businessId: 1786 delivery: FALSE outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 3.5
+businessId: 1925 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 2.5
+businessId: 1950 delivery: TRUE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 2039 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 2021 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1925 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out:  stars: 3
+businessId: 1848 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 2021 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 1963 delivery:  outdoor sitting: FALSE alcohol:  parking lot:  take out:  stars: 3.5
+businessId: 1870 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 5
+businessId: 1931 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1673 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 2047 delivery:  outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1963 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1928 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1786 delivery: FALSE outdoor sitting:  alcohol:  parking lot:  take out: TRUE stars: 3
+businessId: 1942 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 5
+businessId: 1877 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1963 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1908 delivery: FALSE outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 3
+businessId: 1929 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1890 delivery:  outdoor sitting:  alcohol:  parking lot:  take out: TRUE stars: 5
+businessId: 1844 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1822 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1886 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 2
+businessId: 1833 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 2044 delivery: FALSE outdoor sitting:  alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1848 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 2
+businessId: 1929 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1879 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 2047 delivery: FALSE outdoor sitting: FALSE alcohol:  parking lot:  take out: TRUE stars: 4
+businessId: 1822 delivery: TRUE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3
+businessId: 2021 delivery: FALSE outdoor sitting:  alcohol:  parking lot:  take out: TRUE stars: 4
+businessId: 2047 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3.5
+businessId: 2047 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 2044 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1844 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1925 delivery: TRUE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1886 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out:  stars: 3.5
+businessId: 1925 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3.5
+businessId: 1890 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 4.5
+businessId: 1942 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4.5
+businessId: 1898 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1844 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1822 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1848 delivery: FALSE outdoor sitting: FALSE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 2044 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1840 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1928 delivery:  outdoor sitting:  alcohol:  parking lot:  take out:  stars: 4
+businessId: 1879 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1908 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 3
+businessId: 1870 delivery: FALSE outdoor sitting: FALSE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4.5
+businessId: 1963 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3
+businessId: 1923 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 2.5
+businessId: 1735 delivery: FALSE outdoor sitting: TRUE alcohol: beer_and_wine parking lot:  take out: TRUE stars: 4
+businessId: 1950 delivery:  outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 2007 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1840 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 3.5
+businessId: 1755 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1963 delivery: FALSE outdoor sitting: TRUE alcohol: full_bar parking lot:  take out: TRUE stars: 4
+businessId: 1929 delivery:  outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 3
+businessId: 1770 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1872 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4.5
+businessId: 1840 delivery: FALSE outdoor sitting: FALSE alcohol: none parking lot:  take out: TRUE stars: 4
+businessId: 1877 delivery: FALSE outdoor sitting: TRUE alcohol: none parking lot:  take out: TRUE stars: 3.5

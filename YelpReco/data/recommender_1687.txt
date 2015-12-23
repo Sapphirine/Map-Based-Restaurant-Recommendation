@@ -1,0 +1,7 @@
+UserId:userIdRecommendedItem[item:1758, value:5.0]
+UserId:userIdRecommendedItem[item:1920, value:4.5]
+UserId:userIdRecommendedItem[item:1874, value:4.5]
+UserId:userIdRecommendedItem[item:1926, value:4.3333335]
+UserId:userIdRecommendedItem[item:1933, value:4.25]
+UserId:userIdRecommendedItem[item:2060, value:3.5]
+UserId:userIdRecommendedItem[item:1949, value:3.0]
